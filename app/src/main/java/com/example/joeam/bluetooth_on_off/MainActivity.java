@@ -136,6 +136,10 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    /*
+
+    NOTE: CONNECT Bluetooth module before starting app. then it will work by sending 1 and 0. 
+    */
 
    /* @SuppressLint("ClickableViewAccessibility")
     private void setw() throws IOException
